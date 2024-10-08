@@ -1,6 +1,0 @@
----
-title: "Resources for biodiversity conservation"
-sidebar: true
----
-
-------------------------------------------------------------------------

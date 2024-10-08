@@ -1,4 +1,0 @@
----
-title: "Priority actions overview"
-sidebar: true
----
