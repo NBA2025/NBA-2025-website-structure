@@ -1,0 +1,28 @@
+---
+title: "Mammals"
+subtitle: "Findings emerging from the NBA "
+date: last-modified
+date-format: "DD-MM-YYYY"
+sidebar: false
+image: "/images/Mammals.JPG"  
+---
+
+**Recommended citation:**
+
+------------------------------------------------------------------------
+
+# Overview
+
+add text
+
+## Terrestrial
+
+Taxonomic group summary page
+
+## Inland aquatic
+
+add text
+
+## Marine
+
+add text
