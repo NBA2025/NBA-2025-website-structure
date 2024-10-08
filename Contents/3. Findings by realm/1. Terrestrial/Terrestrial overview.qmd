@@ -4,7 +4,7 @@ subtitle: "Findings emerging from the NBA "
 date: last-modified
 date-format: "DD-MM-YYYY"
 sidebar: true
-image: "/images/Terrestrial.jpg"  
+image: "/images/Terrestrial.png"  
 ---
 
 **Recommended citation:**

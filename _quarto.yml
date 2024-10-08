@@ -52,7 +52,7 @@ website:
     style: "docked"
   - section: "**Contents**"
     contents:
-      - text: "Overview of how the NBA input datasets used"
+      - text: "How the NBA input datasets used"
         href: Contents/0. About/2.1 How NBA input datasets are used.qmd
       - text: "Direct links between NBA and MEA indicators"
         href: Contents/0. About/2.2 Direct links between NBA and MEA indicators.qmd
@@ -230,7 +230,7 @@ website:
            
   page-footer:
       left: |
-       [![](/images/SANBI_logo.jpg){width=200px}](https://www.sanbi.org/)
+       [![](/images/SANBI_logo.png){width=200px}](https://www.sanbi.org/)
 
       center: |
         Made with [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=80px}]
