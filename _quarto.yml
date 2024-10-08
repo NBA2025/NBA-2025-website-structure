@@ -227,17 +227,17 @@ website:
             href: Contents/5. Priority actions and responses/Priority responses/Bio conservation.qmd
           - text: "Effectiveness and impact of responses"
             href: Contents/5. Priority actions and responses/Priority responses/Effectiveness impact.qmd   
-            
+           
   page-footer:
-     left: |
+      left: |
        [![](/images/SANBI_logo.jpg){width=200px}](https://www.sanbi.org/)
 
       center: |
-        Made with [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=100px}]
+        Made with [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=80px}]
 
       right: |
         [![](/images/logo-environmental-affairs.jpg){width=200px}](https://www.dffe.gov.za/reports)   
-            
+
 
 format:
   html:
