@@ -3,9 +3,9 @@ title: "Ecosystems in the terrestrial realm"
 sidebar: true
 ---
 
--------------------------
+------------------------------------------------------------------------
 
-# Map of ecosystem types 
+# Map of ecosystem types
 
 add text
 
@@ -51,6 +51,4 @@ add text
 
 add text
 
-# Map of terrestrial ecosystem types
 
-add text

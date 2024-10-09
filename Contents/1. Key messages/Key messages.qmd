@@ -33,4 +33,4 @@ Certain small ecosystem types function as crucial ecological infrastructure and,
 
 Estuarine and marine ecosystems provide South Africans with food and livelihoods by providing a basis for fishing -- whether commercial, subsistence or recreational. Yet many fish stocks are overexploited and many fish species are threatened (well established). While a range of plans are in place to ensure that fisheries are sustainable, better practices to rebuild stocks of priority species are needed, as well as reliable data and sufficient capacity for undertaking regular stock assessments.
 
-# South Africa's biodiversity is under pressure, but solutions are at hand
+## South Africa's biodiversity is under pressure, but solutions are at hand
