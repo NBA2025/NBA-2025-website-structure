@@ -11,11 +11,12 @@ website:
     left:
       - text: Home
         href: index.qmd
-   
+        
+      - text: "NBA resources"  
+        href: NBA resources.qmd
+      
       - text: About
         menu:
-          - text: "Introduction"
-            href: Contents/0. About/0. Introduction.qmd        
           - text: "About the NBA"
             href: Contents/0. About/1. About the NBA.qmd
           - text: "How is NBA used"

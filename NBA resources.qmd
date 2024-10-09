@@ -1,5 +1,5 @@
 ---
-title: "NBA Resources"
+title: National Biodiversity Assessment resources
 
 about:
   template: marquee
@@ -14,7 +14,7 @@ toc: false
 sidebar: false
 ---
 
-------------------------------------------------------------------------
+---------------------------------
 
 # Important NBA resources
 
