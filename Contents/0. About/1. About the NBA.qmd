@@ -23,7 +23,8 @@ Explanation of what NBA is not
 
 # How to cite the NBA
 
-::: {.column width="50%"}
+::: {.column width="100%"}
+
 **Recommended citation**
 
 Reference in scientific publications:

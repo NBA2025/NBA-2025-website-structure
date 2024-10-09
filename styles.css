@@ -42,7 +42,7 @@ body{ /* Normal  */
 }
 
 .column {
-  border: 30px solid #f8f9fa;  
+  border: 10px solid #f8f9fa;  
   padding: 10px;  /* Space inside the border */
   font-size: 14.5px;
 }
