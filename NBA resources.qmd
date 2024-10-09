@@ -4,7 +4,7 @@ title: National Biodiversity Assessment resources
 about:
   template: marquee
   image: images/NBA.png
-  image-width: 1000px
+  image-width: 950px
  
 format:
   html:
