@@ -1,5 +1,15 @@
 ---
 title: "NBA Resources"
+
+about:
+  template: marquee
+  image: images/NBA.png
+  image-width: 897px
+ 
+format:
+  html:
+    margin-top: -8em
+
 toc: false
 sidebar: false
 ---

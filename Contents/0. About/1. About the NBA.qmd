@@ -3,7 +3,7 @@ title: "About the National Biodiversity Assessment"
 sidebar: false
 ---
 
-------------------------------------------------------------------------
+----------------------------------------
 
 # Why do we do the NBA
 
@@ -24,7 +24,6 @@ Explanation of what NBA is not
 # How to cite the NBA
 
 ::: {.column width="100%"}
-
 **Recommended citation**
 
 Reference in scientific publications:
