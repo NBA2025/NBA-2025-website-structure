@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "NBA 2025 website structure"
+  title: "NBA 2025"
   reader-mode: false
   bread-crumbs: false
   back-to-top-navigation: true
