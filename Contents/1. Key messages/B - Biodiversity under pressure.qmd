@@ -1,5 +1,6 @@
 ---
 title: South Africa’s biodiversity is under pressure, but solutions are at hand
+sidebar: false
 ---
 
 ------------------------------------------------------------------------

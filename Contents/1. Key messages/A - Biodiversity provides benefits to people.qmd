@@ -1,5 +1,6 @@
 ---
 title: "South Africa's biodiversity provides benefits to people"
+sidebar: false
 ---
 
 ------------------------------------------------------------------------
