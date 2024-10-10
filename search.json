@@ -60,7 +60,7 @@
   {
     "objectID": "Contents/3. Findings by realm/2. Freshwater/Freshwater RLE.html#red-list-of-ecosystems---rivers",
     "href": "Contents/3. Findings by realm/2. Freshwater/Freshwater RLE.html#red-list-of-ecosystems---rivers",
-    "title": "Freshwater Red List of Ecosystems",
+    "title": "Red List of Ecosystems",
     "section": "1.1 Red List of Ecosystems - rivers",
     "text": "1.1 Red List of Ecosystems - rivers\nadd text",
     "crumbs": [
@@ -71,7 +71,7 @@
   {
     "objectID": "Contents/3. Findings by realm/2. Freshwater/Freshwater RLE.html#red-list-of-ecosystems---wetlands",
     "href": "Contents/3. Findings by realm/2. Freshwater/Freshwater RLE.html#red-list-of-ecosystems---wetlands",
-    "title": "Freshwater Red List of Ecosystems",
+    "title": "Red List of Ecosystems",
     "section": "1.2 Red List of Ecosystems - wetlands",
     "text": "1.2 Red List of Ecosystems - wetlands\nadd text",
     "crumbs": [
@@ -195,7 +195,7 @@
   {
     "objectID": "Contents/3. Findings by realm/4. Marine/Marine ecological condition.html#ecological-condition",
     "href": "Contents/3. Findings by realm/4. Marine/Marine ecological condition.html#ecological-condition",
-    "title": "Ecological condition of marine ecosystems",
+    "title": "Ecological condition",
     "section": "1.1 Ecological condition",
     "text": "1.1 Ecological condition\nadd text",
     "crumbs": [
@@ -206,7 +206,7 @@
   {
     "objectID": "Contents/3. Findings by realm/4. Marine/Marine ecological condition.html#marine-pressure-datasets",
     "href": "Contents/3. Findings by realm/4. Marine/Marine ecological condition.html#marine-pressure-datasets",
-    "title": "Ecological condition of marine ecosystems",
+    "title": "Ecological condition",
     "section": "1.2 Marine pressure datasets",
     "text": "1.2 Marine pressure datasets\nadd text",
     "crumbs": [
@@ -249,7 +249,7 @@
   {
     "objectID": "Contents/3. Findings by realm/5. Coast/Coast ecosystems.html#map-of-ecosytem-types",
     "href": "Contents/3. Findings by realm/5. Coast/Coast ecosystems.html#map-of-ecosytem-types",
-    "title": "coastal ecosystems",
+    "title": "Coastal ecosystems",
     "section": "1.1 Map of ecosytem types",
     "text": "1.1 Map of ecosytem types\nadd text",
     "crumbs": [
@@ -260,7 +260,7 @@
   {
     "objectID": "Contents/3. Findings by realm/5. Coast/Coast ecological condition.html#ecological-condition",
     "href": "Contents/3. Findings by realm/5. Coast/Coast ecological condition.html#ecological-condition",
-    "title": "Ecological condition of coastal ecosystems",
+    "title": "Ecological condition",
     "section": "1.1 Ecological condition",
     "text": "1.1 Ecological condition\nadd text",
     "crumbs": [
@@ -293,7 +293,7 @@
   {
     "objectID": "Contents/3. Findings by realm/1. Terrestrial/Terrestrial ecological condition.html#ecological-condition-per-realm",
     "href": "Contents/3. Findings by realm/1. Terrestrial/Terrestrial ecological condition.html#ecological-condition-per-realm",
-    "title": "Ecological condition of terrestrial ecosystems",
+    "title": "Ecological condition",
     "section": "1.1 Ecological condition per realm",
     "text": "1.1 Ecological condition per realm\nadd text\n\n1.1.1 Albany Thicket\nadd text\n\n\n1.1.2 Azonal Vegetation\nadd text\n\n\n1.1.3 Desert\nadd text\n\n\n1.1.4 Forests\nadd text\n\n\n1.1.5 Fynbos\nadd text\n\n\n1.1.6 Grassland\nadd text\n\n\n1.1.7 Indian Ocean Coastal Belt\nadd text\n\n\n1.1.8 Nama-Karoo\nadd text\n\n\n1.1.9 Savanna\nadd text\n\n\n1.1.10 Succulent Karoo\nadd text",
     "crumbs": [
@@ -408,7 +408,7 @@
     "href": "Contents/3. Findings by realm/3. Estuarine/Estuarine overview.html",
     "title": "Estuarine realm",
     "section": "",
-    "text": "Recommended citation:\n\n\n1 Overview\n\n\n\n\n Back to top",
+    "text": "Recommended citation:\n\n\n1 Overview\nadd text\n\n\n\n\n Back to top",
     "crumbs": [
       "Estuarine realm"
     ]
@@ -416,7 +416,7 @@
   {
     "objectID": "Contents/3. Findings by realm/3. Estuarine/Estuarine PL.html",
     "href": "Contents/3. Findings by realm/3. Estuarine/Estuarine PL.html",
-    "title": "Protection Level of estuarine ecosystems",
+    "title": "Protection Level",
     "section": "",
     "text": "1 Protection Level\nadd text\n\n\n\n\n Back to top",
     "crumbs": [
@@ -427,11 +427,11 @@
   {
     "objectID": "Contents/5. Priority actions and responses/Priority responses/Responses overview.html",
     "href": "Contents/5. Priority actions and responses/Priority responses/Responses overview.html",
-    "title": "Priority responses overview",
+    "title": "Priority responses",
     "section": "",
     "text": "1 Overview\nadd text\n\n\n\n\n Back to top",
     "crumbs": [
-      "Priority responses overview"
+      "Priority responses"
     ]
   },
   {
@@ -551,10 +551,260 @@
     "href": "Contents/2. Integrated findings/Headline indicators/Species.html#species-protection-level",
     "title": "Species indicators",
     "section": "1.2 Species Protection Level",
-    "text": "1.2 Species Protection Level",
+    "text": "1.2 Species Protection Level\nadd text",
     "crumbs": [
       "**Contents**",
       "Species indicators"
+    ]
+  },
+  {
+    "objectID": "Contents/2. Integrated findings/Pressures/Pressures on species.html#pressures-on-species-per-realm",
+    "href": "Contents/2. Integrated findings/Pressures/Pressures on species.html#pressures-on-species-per-realm",
+    "title": "Pressures on species",
+    "section": "1.1 Pressures on species per realm",
+    "text": "1.1 Pressures on species per realm\nadd text\n\n1.1.1 Terrestrial realm\nadd text\n\n\n1.1.2 Freshwater (inland aquatic) realm\nadd text\n\n\n1.1.3 Estuarine realm\nadd text\n\n\n1.1.4 Marine realm\nadd text\n\n\n1.1.5 Coast cross-realm\nadd text",
+    "crumbs": [
+      "**Contents**",
+      "Pressures on species"
+    ]
+  },
+  {
+    "objectID": "Contents/2. Integrated findings/Pressures/Pressures on ecosystems.html#ecosystem-pressures-per-realm",
+    "href": "Contents/2. Integrated findings/Pressures/Pressures on ecosystems.html#ecosystem-pressures-per-realm",
+    "title": "Pressures on ecosystems",
+    "section": "1.1 Ecosystem pressures per realm",
+    "text": "1.1 Ecosystem pressures per realm\nadd text\n\n1.1.1 Terrestrial realm\nadd text\n\n\n1.1.2 Freshwater (inland aquatic) realm\nadd text\n\n\n1.1.3 Estuarine realm\nadd text\n\n\n1.1.4 Marine realm\nadd text\n\n\n1.1.5 Coast cross-realm\nadd text",
+    "crumbs": [
+      "**Contents**",
+      "Pressures on ecosystems"
+    ]
+  },
+  {
+    "objectID": "Contents/4. Species/3. Fish/Fish.html",
+    "href": "Contents/4. Species/3. Fish/Fish.html",
+    "title": "Fish",
+    "section": "",
+    "text": "Recommended citation:"
+  },
+  {
+    "objectID": "Contents/4. Species/3. Fish/Fish.html#inland-aquatic",
+    "href": "Contents/4. Species/3. Fish/Fish.html#inland-aquatic",
+    "title": "Fish",
+    "section": "1.1 Inland aquatic",
+    "text": "1.1 Inland aquatic\nTaxonomic group summary - Freshwater fish"
+  },
+  {
+    "objectID": "Contents/4. Species/3. Fish/Fish.html#estuarine",
+    "href": "Contents/4. Species/3. Fish/Fish.html#estuarine",
+    "title": "Fish",
+    "section": "1.2 Estuarine",
+    "text": "1.2 Estuarine\nEstuary fish"
+  },
+  {
+    "objectID": "Contents/4. Species/4. Invertebrates/Estuary invertebrates.html#taxonomic-group-summary",
+    "href": "Contents/4. Species/4. Invertebrates/Estuary invertebrates.html#taxonomic-group-summary",
+    "title": "Estuary invertebrates",
+    "section": "1.1 Taxonomic group summary",
+    "text": "1.1 Taxonomic group summary\nadd text"
+  },
+  {
+    "objectID": "Contents/4. Species/4. Invertebrates/Butterflies.html#taxonomic-group-summary",
+    "href": "Contents/4. Species/4. Invertebrates/Butterflies.html#taxonomic-group-summary",
+    "title": "Butterflies",
+    "section": "1.1 Taxonomic group summary",
+    "text": "1.1 Taxonomic group summary\nadd text",
+    "crumbs": [
+      "**Contents**",
+      "Butterflies"
+    ]
+  },
+  {
+    "objectID": "Contents/4. Species/4. Invertebrates/Crabs.html#taxonomic-group-summary",
+    "href": "Contents/4. Species/4. Invertebrates/Crabs.html#taxonomic-group-summary",
+    "title": "Crabs",
+    "section": "1.1 Taxonomic group summary",
+    "text": "1.1 Taxonomic group summary\nadd text",
+    "crumbs": [
+      "**Contents**",
+      "Crabs"
+    ]
+  },
+  {
+    "objectID": "Contents/4. Species/4. Invertebrates/Mollusca.html#terrestrial",
+    "href": "Contents/4. Species/4. Invertebrates/Mollusca.html#terrestrial",
+    "title": "Mollusca",
+    "section": "1.1 Terrestrial",
+    "text": "1.1 Terrestrial\nTaxonomic group summary - Terrestrial Mollusca",
+    "crumbs": [
+      "**Contents**",
+      "Mollusca"
+    ]
+  },
+  {
+    "objectID": "Contents/4. Species/4. Invertebrates/Mollusca.html#inland-aquatic",
+    "href": "Contents/4. Species/4. Invertebrates/Mollusca.html#inland-aquatic",
+    "title": "Mollusca",
+    "section": "1.2 Inland aquatic",
+    "text": "1.2 Inland aquatic\nTaxonomic group summary - Freshwater Mollusca",
+    "crumbs": [
+      "**Contents**",
+      "Mollusca"
+    ]
+  },
+  {
+    "objectID": "Contents/4. Species/4. Invertebrates/Branchiopoda.html#taxonomic-group-summary---large-branchiopoda",
+    "href": "Contents/4. Species/4. Invertebrates/Branchiopoda.html#taxonomic-group-summary---large-branchiopoda",
+    "title": "Branchiopoda",
+    "section": "1.1 Taxonomic group summary - large Branchiopoda",
+    "text": "1.1 Taxonomic group summary - large Branchiopoda\nadd text",
+    "crumbs": [
+      "**Contents**",
+      "Branchiopoda"
+    ]
+  },
+  {
+    "objectID": "Contents/4. Species/5. Mammals/Mammals.html",
+    "href": "Contents/4. Species/5. Mammals/Mammals.html",
+    "title": "Mammals",
+    "section": "",
+    "text": "Recommended citation:"
+  },
+  {
+    "objectID": "Contents/4. Species/5. Mammals/Mammals.html#terrestrial",
+    "href": "Contents/4. Species/5. Mammals/Mammals.html#terrestrial",
+    "title": "Mammals",
+    "section": "1.1 Terrestrial",
+    "text": "1.1 Terrestrial\nTaxonomic group summary page"
+  },
+  {
+    "objectID": "Contents/4. Species/5. Mammals/Mammals.html#inland-aquatic",
+    "href": "Contents/4. Species/5. Mammals/Mammals.html#inland-aquatic",
+    "title": "Mammals",
+    "section": "1.2 Inland aquatic",
+    "text": "1.2 Inland aquatic\nadd text"
+  },
+  {
+    "objectID": "Contents/4. Species/5. Mammals/Mammals.html#marine",
+    "href": "Contents/4. Species/5. Mammals/Mammals.html#marine",
+    "title": "Mammals",
+    "section": "1.3 Marine",
+    "text": "1.3 Marine\nadd text"
+  },
+  {
+    "objectID": "RealmListing.html",
+    "href": "RealmListing.html",
+    "title": "Findings by realm",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nCoast cross-cutting realm\n\n\nFindings emerging from the NBA\n\n\n\n\n\n\nOct 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEstuarine realm\n\n\nFindings emerging from the NBA\n\n\n\n\n\n\nOct 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFreshwater (inland aquatic) realm\n\n\nFindings emerging from the NBA\n\n\n\n\n\n\nOct 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarine realm\n\n\nFindings emerging from the NBA\n\n\n\n\n\n\nOct 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTerrestrial realm\n\n\nFindings emerging from the NBA\n\n\n\n\n\n\nOct 10, 2024\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+  },
+  {
+    "objectID": "NBA resources.html#what-is-new-in-the-nba-2025",
+    "href": "NBA resources.html#what-is-new-in-the-nba-2025",
+    "title": "Important NBA resources",
+    "section": "What is new in the NBA 2025",
+    "text": "What is new in the NBA 2025\nAdd text"
+  },
+  {
+    "objectID": "NBA resources.html#how-to-navigate-the-nba-2025-website",
+    "href": "NBA resources.html#how-to-navigate-the-nba-2025-website",
+    "title": "Important NBA resources",
+    "section": "How to navigate the NBA 2025 website",
+    "text": "How to navigate the NBA 2025 website\nAdd text"
+  },
+  {
+    "objectID": "Contents/4. Species/1. Amphibians/Amphibians.html",
+    "href": "Contents/4. Species/1. Amphibians/Amphibians.html",
+    "title": "Amphibians",
+    "section": "",
+    "text": "Recommended citation:\n\n\n1 Taxonomic group summary\nadd text\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Contents/4. Species/2. Birds/Birds.html",
+    "href": "Contents/4. Species/2. Birds/Birds.html",
+    "title": "Birds",
+    "section": "",
+    "text": "Recommended citation:\n\n\n1 Terrestrial\nTaxonomic group summary\n\n\n2 Estuarine\nEstuary birds\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Contents/4. Species/4. Invertebrates/Bees.html#taxonomic-group-summary",
+    "href": "Contents/4. Species/4. Invertebrates/Bees.html#taxonomic-group-summary",
+    "title": "Bees",
+    "section": "1.1 Taxonomic group summary",
+    "text": "1.1 Taxonomic group summary\nadd text",
+    "crumbs": [
+      "**Contents**",
+      "Bees"
+    ]
+  },
+  {
+    "objectID": "Contents/4. Species/4. Invertebrates/Dragonflies.html#taxonomic-group-summary---odonota",
+    "href": "Contents/4. Species/4. Invertebrates/Dragonflies.html#taxonomic-group-summary---odonota",
+    "title": "Dragonflies",
+    "section": "1.1 Taxonomic group summary - Odonota",
+    "text": "1.1 Taxonomic group summary - Odonota\nadd text",
+    "crumbs": [
+      "**Contents**",
+      "Dragonflies"
+    ]
+  },
+  {
+    "objectID": "Contents/4. Species/4. Invertebrates/Invertebrates.html",
+    "href": "Contents/4. Species/4. Invertebrates/Invertebrates.html",
+    "title": "Invertebrates",
+    "section": "",
+    "text": "Recommended citation:\n\n\n1 Overview of invertebrate groups assessed to date\nadd text\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Invertebrates"
+    ]
+  },
+  {
+    "objectID": "Contents/4. Species/4. Invertebrates/Spiders.html#spiders",
+    "href": "Contents/4. Species/4. Invertebrates/Spiders.html#spiders",
+    "title": "Spiders",
+    "section": "1.1 Spiders",
+    "text": "1.1 Spiders\nTaxonomic group summary",
+    "crumbs": [
+      "**Contents**",
+      "Spiders"
+    ]
+  },
+  {
+    "objectID": "Contents/4. Species/6. Plants/Plants.html",
+    "href": "Contents/4. Species/6. Plants/Plants.html",
+    "title": "Plants",
+    "section": "",
+    "text": "Recommended citation:"
+  },
+  {
+    "objectID": "Contents/4. Species/6. Plants/Plants.html#taxonomic-group-summary",
+    "href": "Contents/4. Species/6. Plants/Plants.html#taxonomic-group-summary",
+    "title": "Plants",
+    "section": "1.1 Taxonomic group summary",
+    "text": "1.1 Taxonomic group summary\nadd text"
+  },
+  {
+    "objectID": "Contents/4. Species/7. Reptiles/Reptiles.html",
+    "href": "Contents/4. Species/7. Reptiles/Reptiles.html",
+    "title": "Reptiles",
+    "section": "",
+    "text": "Recommended citation:"
+  },
+  {
+    "objectID": "Contents/4. Species/7. Reptiles/Reptiles.html#taxonomic-group-summary",
+    "href": "Contents/4. Species/7. Reptiles/Reptiles.html#taxonomic-group-summary",
+    "title": "Reptiles",
+    "section": "1.1 Taxonomic group summary",
+    "text": "1.1 Taxonomic group summary\nadd text"
+  },
+  {
+    "objectID": "Contents/2. Integrated findings/Pressures/Ecological condition.html#ecological-condition-per-realm",
+    "href": "Contents/2. Integrated findings/Pressures/Ecological condition.html#ecological-condition-per-realm",
+    "title": "Ecological condition",
+    "section": "1.1 Ecological condition per realm",
+    "text": "1.1 Ecological condition per realm\nadd text\n\n1.1.1 Terrestrial realm\nadd text\n\n\n1.1.2 Freshwater (inland aquatic) realm\nadd text\n\n\n1.1.3 Estuarine realm\nadd text\n\n\n1.1.4 Marine realm\nadd text\n\n\n1.1.5 Coast cross-realm\nadd text",
+    "crumbs": [
+      "**Contents**",
+      "Ecological condition"
     ]
   },
   {
@@ -602,306 +852,10 @@
     "href": "Contents/2. Integrated findings/Pressures/Pressures overview.html#pesticides",
     "title": "Pressures on South Africa’s biodiversity",
     "section": "1.5 Pesticides",
-    "text": "1.5 Pesticides",
+    "text": "1.5 Pesticides\nadd text",
     "crumbs": [
       "Pressures on South Africa's biodiversity"
     ]
-  },
-  {
-    "objectID": "Contents/2. Integrated findings/Pressures/Ecological condition.html#ecological-condition-per-realm",
-    "href": "Contents/2. Integrated findings/Pressures/Ecological condition.html#ecological-condition-per-realm",
-    "title": "Ecological condition",
-    "section": "1.1 Ecological condition per realm",
-    "text": "1.1 Ecological condition per realm\nadd text\n\n1.1.1 Terrestrial realm\nadd text\n\n\n1.1.2 Freshwater (inland aquatic) realm\nadd text\n\n\n1.1.3 Estuarine realm\nadd text\n\n\n1.1.4 Marine realm\nadd text\n\n\n1.1.5 Coast cross-realm\nadd text",
-    "crumbs": [
-      "**Contents**",
-      "Ecological condition"
-    ]
-  },
-  {
-    "objectID": "Contents/4. Species/7. Reptiles/Reptiles.html",
-    "href": "Contents/4. Species/7. Reptiles/Reptiles.html",
-    "title": "Reptiles",
-    "section": "",
-    "text": "Recommended citation:"
-  },
-  {
-    "objectID": "Contents/4. Species/7. Reptiles/Reptiles.html#taxonomic-group-summary",
-    "href": "Contents/4. Species/7. Reptiles/Reptiles.html#taxonomic-group-summary",
-    "title": "Reptiles",
-    "section": "1.1 Taxonomic group summary",
-    "text": "1.1 Taxonomic group summary\nadd text"
-  },
-  {
-    "objectID": "Contents/4. Species/6. Plants/Plants.html",
-    "href": "Contents/4. Species/6. Plants/Plants.html",
-    "title": "Plants",
-    "section": "",
-    "text": "Recommended citation:"
-  },
-  {
-    "objectID": "Contents/4. Species/6. Plants/Plants.html#taxonomic-group-summary",
-    "href": "Contents/4. Species/6. Plants/Plants.html#taxonomic-group-summary",
-    "title": "Plants",
-    "section": "1.1 Taxonomic group summary",
-    "text": "1.1 Taxonomic group summary\nadd text"
-  },
-  {
-    "objectID": "Contents/4. Species/4. Invertebrates/Mammals.html#terrestrial",
-    "href": "Contents/4. Species/4. Invertebrates/Mammals.html#terrestrial",
-    "title": "Mammals",
-    "section": "1.1 Terrestrial",
-    "text": "1.1 Terrestrial\nadd text"
-  },
-  {
-    "objectID": "Contents/4. Species/4. Invertebrates/Mammals.html#inland-aquatic",
-    "href": "Contents/4. Species/4. Invertebrates/Mammals.html#inland-aquatic",
-    "title": "Mammals",
-    "section": "1.2 Inland aquatic",
-    "text": "1.2 Inland aquatic\nadd text"
-  },
-  {
-    "objectID": "Contents/4. Species/4. Invertebrates/Mammals.html#marine",
-    "href": "Contents/4. Species/4. Invertebrates/Mammals.html#marine",
-    "title": "Mammals",
-    "section": "1.3 Marine",
-    "text": "1.3 Marine\nadd text"
-  },
-  {
-    "objectID": "Contents/4. Species/4. Invertebrates/Butterflies.html#taxonomic-group-summary",
-    "href": "Contents/4. Species/4. Invertebrates/Butterflies.html#taxonomic-group-summary",
-    "title": "Butterflies",
-    "section": "1.1 Taxonomic group summary",
-    "text": "1.1 Taxonomic group summary\nadd text",
-    "crumbs": [
-      "**Contents**",
-      "Butterflies"
-    ]
-  },
-  {
-    "objectID": "Contents/4. Species/4. Invertebrates/Crabs.html#taxonomic-group-summary",
-    "href": "Contents/4. Species/4. Invertebrates/Crabs.html#taxonomic-group-summary",
-    "title": "Crabs",
-    "section": "1.1 Taxonomic group summary",
-    "text": "1.1 Taxonomic group summary\nadd text",
-    "crumbs": [
-      "**Contents**",
-      "Crabs"
-    ]
-  },
-  {
-    "objectID": "Contents/4. Species/4. Invertebrates/Plants.html#taxonomic-group-summary",
-    "href": "Contents/4. Species/4. Invertebrates/Plants.html#taxonomic-group-summary",
-    "title": "Plants",
-    "section": "1.1 Taxonomic group summary",
-    "text": "1.1 Taxonomic group summary\nadd text"
-  },
-  {
-    "objectID": "Contents/4. Species/4. Invertebrates/Bees.html#taxonomic-group-summary",
-    "href": "Contents/4. Species/4. Invertebrates/Bees.html#taxonomic-group-summary",
-    "title": "Bees",
-    "section": "1.1 Taxonomic group summary",
-    "text": "1.1 Taxonomic group summary\nadd text",
-    "crumbs": [
-      "**Contents**",
-      "Bees"
-    ]
-  },
-  {
-    "objectID": "Contents/4. Species/4. Invertebrates/Reptiles.html#taxonomic-group-summary",
-    "href": "Contents/4. Species/4. Invertebrates/Reptiles.html#taxonomic-group-summary",
-    "title": "Reptiles",
-    "section": "1.1 Taxonomic group summary",
-    "text": "1.1 Taxonomic group summary\nadd text"
-  },
-  {
-    "objectID": "Contents/4. Species/5. Mammals/Mammals.html",
-    "href": "Contents/4. Species/5. Mammals/Mammals.html",
-    "title": "Mammals",
-    "section": "",
-    "text": "Recommended citation:"
-  },
-  {
-    "objectID": "Contents/4. Species/5. Mammals/Mammals.html#terrestrial",
-    "href": "Contents/4. Species/5. Mammals/Mammals.html#terrestrial",
-    "title": "Mammals",
-    "section": "1.1 Terrestrial",
-    "text": "1.1 Terrestrial\nTaxonomic group summary page"
-  },
-  {
-    "objectID": "Contents/4. Species/5. Mammals/Mammals.html#inland-aquatic",
-    "href": "Contents/4. Species/5. Mammals/Mammals.html#inland-aquatic",
-    "title": "Mammals",
-    "section": "1.2 Inland aquatic",
-    "text": "1.2 Inland aquatic\nadd text"
-  },
-  {
-    "objectID": "Contents/4. Species/5. Mammals/Mammals.html#marine",
-    "href": "Contents/4. Species/5. Mammals/Mammals.html#marine",
-    "title": "Mammals",
-    "section": "1.3 Marine",
-    "text": "1.3 Marine\nadd text"
-  },
-  {
-    "objectID": "RealmListing.html",
-    "href": "RealmListing.html",
-    "title": "Findings by realm",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nCoast cross-cutting realm\n\n\nFindings emerging from the NBA\n\n\n\n\n\n\nOct 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEstuarine realm\n\n\nFindings emerging from the NBA\n\n\n\n\n\n\nOct 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFreshwater (inland aqauatic) realm\n\n\nFindings emerging from the NBA\n\n\n\n\n\n\nOct 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarine realm\n\n\nFindings emerging from the NBA\n\n\n\n\n\n\nOct 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTerrestrial realm\n\n\nFindings emerging from the NBA\n\n\n\n\n\n\nOct 9, 2024\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
-  },
-  {
-    "objectID": "NBA resources.html#what-is-new-in-the-nba-2025",
-    "href": "NBA resources.html#what-is-new-in-the-nba-2025",
-    "title": "National Biodiversity Assessment resources",
-    "section": "What is new in the NBA 2025",
-    "text": "What is new in the NBA 2025\nAdd text"
-  },
-  {
-    "objectID": "NBA resources.html#how-to-navigate-the-nba-2025-website",
-    "href": "NBA resources.html#how-to-navigate-the-nba-2025-website",
-    "title": "National Biodiversity Assessment resources",
-    "section": "How to navigate the NBA 2025 website",
-    "text": "How to navigate the NBA 2025 website\nAdd text"
-  },
-  {
-    "objectID": "Contents/4. Species/1. Amphibians/Amphibians.html",
-    "href": "Contents/4. Species/1. Amphibians/Amphibians.html",
-    "title": "Amphibians",
-    "section": "",
-    "text": "Recommended citation:\n\n\n1 Taxonomic group summary\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Contents/4. Species/2. Birds/Birds.html",
-    "href": "Contents/4. Species/2. Birds/Birds.html",
-    "title": "Birds",
-    "section": "",
-    "text": "Recommended citation:\n\n\n1 Terrestrial\nTaxonomic group summary\n\n\n2 Estuarine\nEstuary birds\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Contents/4. Species/4. Invertebrates/Branchiopoda.html#taxonomic-group-summary---large-branchiopoda",
-    "href": "Contents/4. Species/4. Invertebrates/Branchiopoda.html#taxonomic-group-summary---large-branchiopoda",
-    "title": "Branchiopoda",
-    "section": "1.1 Taxonomic group summary - large Branchiopoda",
-    "text": "1.1 Taxonomic group summary - large Branchiopoda\nadd text",
-    "crumbs": [
-      "**Contents**",
-      "Branchiopoda"
-    ]
-  },
-  {
-    "objectID": "Contents/4. Species/4. Invertebrates/Mollusca.html#terrestrial",
-    "href": "Contents/4. Species/4. Invertebrates/Mollusca.html#terrestrial",
-    "title": "Mollusca",
-    "section": "1.1 Terrestrial",
-    "text": "1.1 Terrestrial\nTaxonomic group summary - Terrestrial Mollusca",
-    "crumbs": [
-      "**Contents**",
-      "Mollusca"
-    ]
-  },
-  {
-    "objectID": "Contents/4. Species/4. Invertebrates/Mollusca.html#inland-aquatic",
-    "href": "Contents/4. Species/4. Invertebrates/Mollusca.html#inland-aquatic",
-    "title": "Mollusca",
-    "section": "1.2 Inland aquatic",
-    "text": "1.2 Inland aquatic\nTaxonomic group summary - Freshwater Mollusca",
-    "crumbs": [
-      "**Contents**",
-      "Mollusca"
-    ]
-  },
-  {
-    "objectID": "Contents/4. Species/4. Invertebrates/Dragonflies.html#taxonomic-group-summary---odonota",
-    "href": "Contents/4. Species/4. Invertebrates/Dragonflies.html#taxonomic-group-summary---odonota",
-    "title": "Dragonflies",
-    "section": "1.1 Taxonomic group summary - Odonota",
-    "text": "1.1 Taxonomic group summary - Odonota\nadd text",
-    "crumbs": [
-      "**Contents**",
-      "Dragonflies"
-    ]
-  },
-  {
-    "objectID": "Contents/4. Species/4. Invertebrates/Invertebrates.html",
-    "href": "Contents/4. Species/4. Invertebrates/Invertebrates.html",
-    "title": "Invertebrates",
-    "section": "",
-    "text": "Recommended citation:\n\n\n1 Overview of invetebrate groups assessed to date\nadd text\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Invertebrates"
-    ]
-  },
-  {
-    "objectID": "Contents/4. Species/4. Invertebrates/Spiders.html#spiders",
-    "href": "Contents/4. Species/4. Invertebrates/Spiders.html#spiders",
-    "title": "Spiders",
-    "section": "1.1 Spiders",
-    "text": "1.1 Spiders\nTaxonomic group summary",
-    "crumbs": [
-      "**Contents**",
-      "Spiders"
-    ]
-  },
-  {
-    "objectID": "Contents/4. Species/4. Invertebrates/Estuary invertebrates.html#taxonomic-group-summary",
-    "href": "Contents/4. Species/4. Invertebrates/Estuary invertebrates.html#taxonomic-group-summary",
-    "title": "Estuary invertebrates",
-    "section": "1.1 Taxonomic group summary",
-    "text": "1.1 Taxonomic group summary\nadd text",
-    "crumbs": [
-      "**Contents**",
-      "Estuary invertebrates"
-    ]
-  },
-  {
-    "objectID": "Contents/4. Species/3. Fish/Fish.html",
-    "href": "Contents/4. Species/3. Fish/Fish.html",
-    "title": "Fish",
-    "section": "",
-    "text": "Recommended citation:"
-  },
-  {
-    "objectID": "Contents/4. Species/3. Fish/Fish.html#inland-aquatic",
-    "href": "Contents/4. Species/3. Fish/Fish.html#inland-aquatic",
-    "title": "Fish",
-    "section": "1.1 Inland aquatic",
-    "text": "1.1 Inland aquatic\nTaxonomic group summary - Freshwater fish"
-  },
-  {
-    "objectID": "Contents/4. Species/3. Fish/Fish.html#estuarine",
-    "href": "Contents/4. Species/3. Fish/Fish.html#estuarine",
-    "title": "Fish",
-    "section": "1.2 Estuarine",
-    "text": "1.2 Estuarine\nEstuary fish"
-  },
-  {
-    "objectID": "Contents/2. Integrated findings/Pressures/Pressures on ecosystems.html#ecosystem-pressures-per-realm",
-    "href": "Contents/2. Integrated findings/Pressures/Pressures on ecosystems.html#ecosystem-pressures-per-realm",
-    "title": "Pressures on ecosystems",
-    "section": "1.1 Ecosystem pressures per realm",
-    "text": "1.1 Ecosystem pressures per realm\nadd text\n\n1.1.1 Terrestrial realm\nadd text\n\n\n1.1.2 Freshwater (inland aquatic) realm\nadd text\n\n\n1.1.3 Estuarine realm\nadd text\n\n\n1.1.4 Marine realm\nadd text\n\n\n1.1.5 Coast cross-realm",
-    "crumbs": [
-      "**Contents**",
-      "Pressures on ecosystems"
-    ]
-  },
-  {
-    "objectID": "Contents/2. Integrated findings/Pressures/Pressures on species.html#pressures-on-species-per-realm",
-    "href": "Contents/2. Integrated findings/Pressures/Pressures on species.html#pressures-on-species-per-realm",
-    "title": "Pressures on species",
-    "section": "1.1 Pressures on species per realm",
-    "text": "1.1 Pressures on species per realm\nadd text\n\n1.1.1 Terrestrial realm\nadd text\n\n\n1.1.2 Freshwater (inland aquatic) realm\nadd text\n\n\n1.1.3 Estuarine realm\nadd text\n\n\n1.1.4 Marine realm\nadd text\n\n\n1.1.5 Coast cross-realm",
-    "crumbs": [
-      "**Contents**",
-      "Pressures on species"
-    ]
-  },
-  {
-    "objectID": "Contents/2. Integrated findings/Headline indicators/Overview.html",
-    "href": "Contents/2. Integrated findings/Headline indicators/Overview.html",
-    "title": "National Headline indicators overview",
-    "section": "",
-    "text": "1 Overview\nThis section brings together the findings from components of the NBA 2018 and presents them in an integrated fashion. The headline indicators are compared across realms and taxonomic groups, key pressures that affect all realms are highlighted, and genetic diversity - that applies to all realms and taxonomic groups - is addressed.\n\n\n\n\n Back to top"
   },
   {
     "objectID": "Contents/2. Integrated findings/Headline indicators/Headline indicators overview.html",
@@ -929,7 +883,7 @@
     "href": "Contents/2. Integrated findings/Headline indicators/Ecosystems.html#protection-level",
     "title": "Ecosystem indicators",
     "section": "1.2 Protection Level",
-    "text": "1.2 Protection Level",
+    "text": "1.2 Protection Level\nadd text",
     "crumbs": [
       "**Contents**",
       "Ecosystem indicators"
@@ -1086,7 +1040,7 @@
     "href": "Contents/3. Findings by realm/1. Terrestrial/Terrestrial species.html",
     "title": "Terrestrial species",
     "section": "",
-    "text": "1 Utilized terrestrial species resource assessments\n\n\n\n\n Back to top",
+    "text": "1 Utilized terrestrial species resource assessments\nadd text\n\n\n\n\n Back to top",
     "crumbs": [
       "**Contents**",
       "Species"
@@ -1095,7 +1049,7 @@
   {
     "objectID": "Contents/3. Findings by realm/1. Terrestrial/Terrestrial PL.html#protection-level-per-biome",
     "href": "Contents/3. Findings by realm/1. Terrestrial/Terrestrial PL.html#protection-level-per-biome",
-    "title": "Protection Level of Terrestrial Ecosystems",
+    "title": "Protection Level",
     "section": "1.1 Protection level per biome",
     "text": "1.1 Protection level per biome\nadd text\n\n1.1.1 Albany Thicket\nadd text\n\n\n1.1.2 Azonal Vegetation\nadd text\n\n\n1.1.3 Desert\nadd text\n\n\n1.1.4 Forests\nadd text\n\n\n1.1.5 Fynbos\nadd text\n\n\n1.1.6 Grassland\nadd text\n\n\n1.1.7 Indian Ocean Coastal Belt\nadd text\n\n\n1.1.8 Nama-Karoo\nadd text\n\n\n1.1.9 Savanna\nadd text\n\n\n1.1.10 Succulent Karoo\nadd text",
     "crumbs": [
@@ -1106,7 +1060,7 @@
   {
     "objectID": "Contents/3. Findings by realm/1. Terrestrial/Terrestrial ecosystems.html#overview-of-south-african-biomes",
     "href": "Contents/3. Findings by realm/1. Terrestrial/Terrestrial ecosystems.html#overview-of-south-african-biomes",
-    "title": "Ecosystems in the terrestrial realm",
+    "title": "Terrestrial ecosystems",
     "section": "1.1 Overview of South African biomes",
     "text": "1.1 Overview of South African biomes\nadd text\n\n1.1.1 Albany Thicket\nadd text\n\n\n1.1.2 Azonal Vegetation\nadd text\n\n\n1.1.3 Desert\nadd text\n\n\n1.1.4 Forests\nadd text\n\n\n1.1.5 Fynbos\nadd text\n\n\n1.1.6 Grassland\n\n\n1.1.7 Indian Ocean Coastal Belt\nadd text\n\n\n1.1.8 Nama-Karoo\nadd text\n\n\n1.1.9 Savanna\nadd text\n\n\n1.1.10 Succulent Karoo\nadd text",
     "crumbs": [
@@ -1117,7 +1071,7 @@
   {
     "objectID": "Contents/3. Findings by realm/5. Coast/Coast PL.html#protection-level",
     "href": "Contents/3. Findings by realm/5. Coast/Coast PL.html#protection-level",
-    "title": "Protection Level of Coastal Ecosystems",
+    "title": "Protection Level",
     "section": "1.1 Protection level",
     "text": "1.1 Protection level\nadd text"
   },
@@ -1146,7 +1100,7 @@
   {
     "objectID": "Contents/3. Findings by realm/5. Coast/Coast species.html#coastal-species",
     "href": "Contents/3. Findings by realm/5. Coast/Coast species.html#coastal-species",
-    "title": "Coastal realm species",
+    "title": "Coastal species",
     "section": "1.1 Coastal species",
     "text": "1.1 Coastal species\nadd text",
     "crumbs": [
@@ -1190,7 +1144,7 @@
   {
     "objectID": "Contents/3. Findings by realm/2. Freshwater/Freshwater PL.html#protection-level-of-rivers",
     "href": "Contents/3. Findings by realm/2. Freshwater/Freshwater PL.html#protection-level-of-rivers",
-    "title": "Freshwater Protection Level",
+    "title": "Protection Level",
     "section": "1.1 Protection level of rivers",
     "text": "1.1 Protection level of rivers\nadd text",
     "crumbs": [
@@ -1201,7 +1155,7 @@
   {
     "objectID": "Contents/3. Findings by realm/2. Freshwater/Freshwater PL.html#protection-level-of-wetlands",
     "href": "Contents/3. Findings by realm/2. Freshwater/Freshwater PL.html#protection-level-of-wetlands",
-    "title": "Freshwater Protection Level",
+    "title": "Protection Level",
     "section": "1.2 Protection level of wetlands",
     "text": "1.2 Protection level of wetlands\nadd text",
     "crumbs": [
@@ -1212,51 +1166,51 @@
   {
     "objectID": "Contents/3. Findings by realm/2. Freshwater/Freshwater overview.html",
     "href": "Contents/3. Findings by realm/2. Freshwater/Freshwater overview.html",
-    "title": "Freshwater (inland aqauatic) realm",
+    "title": "Freshwater (inland aquatic) realm",
     "section": "",
     "text": "Recommended citation:",
     "crumbs": [
-      "Freshwater (inland aqauatic) realm"
+      "Freshwater (inland aquatic) realm"
     ]
   },
   {
     "objectID": "Contents/3. Findings by realm/2. Freshwater/Freshwater overview.html#input-data-and-method-for-rivers",
     "href": "Contents/3. Findings by realm/2. Freshwater/Freshwater overview.html#input-data-and-method-for-rivers",
-    "title": "Freshwater (inland aqauatic) realm",
+    "title": "Freshwater (inland aquatic) realm",
     "section": "2.1 Input data and method for rivers",
     "text": "2.1 Input data and method for rivers\nadd text\n\n2.1.1 Ecosystem assessments\nadd text\n\n\n2.1.2 Species assessments\nadd text",
     "crumbs": [
-      "Freshwater (inland aqauatic) realm"
+      "Freshwater (inland aquatic) realm"
     ]
   },
   {
     "objectID": "Contents/3. Findings by realm/2. Freshwater/Freshwater overview.html#key-drivers-and-pressures-impacting-rivers",
     "href": "Contents/3. Findings by realm/2. Freshwater/Freshwater overview.html#key-drivers-and-pressures-impacting-rivers",
-    "title": "Freshwater (inland aqauatic) realm",
+    "title": "Freshwater (inland aquatic) realm",
     "section": "2.2 Key drivers and pressures impacting rivers",
     "text": "2.2 Key drivers and pressures impacting rivers\nadd text\n\n2.2.1 Habitat loss\nadd text\n\n\n2.2.2 Degradation\nadd text\n\n\n2.2.3 Biological invasions\nadd text\n\n\n2.2.4 Climate change\nadd text\n\n\n2.2.5 Biological resource use\nadd text",
     "crumbs": [
-      "Freshwater (inland aqauatic) realm"
+      "Freshwater (inland aquatic) realm"
     ]
   },
   {
     "objectID": "Contents/3. Findings by realm/2. Freshwater/Freshwater overview.html#input-data-and-method-for-wetlands",
     "href": "Contents/3. Findings by realm/2. Freshwater/Freshwater overview.html#input-data-and-method-for-wetlands",
-    "title": "Freshwater (inland aqauatic) realm",
+    "title": "Freshwater (inland aquatic) realm",
     "section": "3.1 Input data and method for wetlands",
     "text": "3.1 Input data and method for wetlands\nadd text\n\n3.1.1 Ecosystem assessments\nadd text\n\n\n3.1.2 Species assessments\nadd text",
     "crumbs": [
-      "Freshwater (inland aqauatic) realm"
+      "Freshwater (inland aquatic) realm"
     ]
   },
   {
     "objectID": "Contents/3. Findings by realm/2. Freshwater/Freshwater overview.html#key-drivers-and-pressures-impacting-wetlands",
     "href": "Contents/3. Findings by realm/2. Freshwater/Freshwater overview.html#key-drivers-and-pressures-impacting-wetlands",
-    "title": "Freshwater (inland aqauatic) realm",
+    "title": "Freshwater (inland aquatic) realm",
     "section": "3.2 Key drivers and pressures impacting wetlands",
     "text": "3.2 Key drivers and pressures impacting wetlands\nadd text\n\n3.2.1 Habitat loss\nadd text\n\n\n3.2.2 Land degradation\nadd text\n\n\n3.2.3 Biological invasions\nadd text\n\n\n3.2.4 Climate change\nadd text\n\n\n3.2.5 Biological resource use\nadd text",
     "crumbs": [
-      "Freshwater (inland aqauatic) realm"
+      "Freshwater (inland aquatic) realm"
     ]
   },
   {
@@ -1300,6 +1254,6 @@
     "href": "SpeciesListing.html",
     "title": "Species",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAmphibians\n\n\nFindings emerging from the NBA\n\n\n\n\n\n\nOct 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBirds\n\n\nFindings emerging from the NBA\n\n\n\n\n\n\nOct 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFish\n\n\nFindings emerging from the NBA\n\n\n\n\n\n\nOct 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInvertebrates\n\n\nFindings emerging from the NBA\n\n\n\n\n\n\nOct 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMammals\n\n\nFindings emerging from the NBA\n\n\n\n\n\n\nOct 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlants\n\n\nFindings emerging from the NBA\n\n\n\n\n\n\nOct 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReptiles\n\n\nFindings emerging from the NBA\n\n\n\n\n\n\nOct 9, 2024\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAmphibians\n\n\nFindings emerging from the NBA\n\n\n\n\n\n\nOct 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBirds\n\n\nFindings emerging from the NBA\n\n\n\n\n\n\nOct 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFish\n\n\nFindings emerging from the NBA\n\n\n\n\n\n\nOct 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInvertebrates\n\n\nFindings emerging from the NBA\n\n\n\n\n\n\nOct 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMammals\n\n\nFindings emerging from the NBA\n\n\n\n\n\n\nOct 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlants\n\n\nFindings emerging from the NBA\n\n\n\n\n\n\nOct 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReptiles\n\n\nFindings emerging from the NBA\n\n\n\n\n\n\nOct 10, 2024\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
   }
 ]
