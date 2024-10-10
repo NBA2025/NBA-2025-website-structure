@@ -605,7 +605,11 @@
     "href": "Contents/4. Species/4. Invertebrates/Estuary invertebrates.html#taxonomic-group-summary",
     "title": "Estuary invertebrates",
     "section": "1.1 Taxonomic group summary",
-    "text": "1.1 Taxonomic group summary\nadd text"
+    "text": "1.1 Taxonomic group summary\nadd text",
+    "crumbs": [
+      "**Contents**",
+      "Estuary invertebrates"
+    ]
   },
   {
     "objectID": "Contents/4. Species/4. Invertebrates/Butterflies.html#taxonomic-group-summary",
