@@ -1,5 +1,5 @@
 ---
-title: "Protection Level of estuarine ecosystems"
+title: "Protection Level"
 sidebar: true
 ---
 

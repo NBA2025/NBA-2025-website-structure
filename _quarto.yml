@@ -198,14 +198,6 @@ website:
             href: Contents/4. Species/4. Invertebrates/Mollusca.qmd               
           - text: "Spiders"
             href: Contents/4. Species/4. Invertebrates/Spiders.qmd  
-          #- text: "Mammals"
-          #  href: Contents/4. Species/4. Invertebrates/Mammals.qmd            
-          #- text: "Mollusca"
-          #  href: Contents/4. Species/4. Invertebrates/Mollusca.qmd            
-          #- text: "Plants"
-          #  href: Contents/4. Species/4. Invertebrates/Plants.qmd
-          #- text: "Reptiles"
-          #  href: Contents/4. Species/4. Invertebrates/Reptiles.qmd            
 
             
   

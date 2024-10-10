@@ -11,6 +11,6 @@ image: "/images/Invertebrates.JPG"
 
 ------------------------------------------------------------------------
 
-# Overview of invetebrate groups assessed to date
+# Overview of invertebrate groups assessed to date
 
 add text

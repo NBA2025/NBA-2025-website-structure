@@ -1,5 +1,5 @@
 ---
-title: "Ecosystems in the terrestrial realm"
+title: "Terrestrial ecosystems"
 sidebar: true
 ---
 
@@ -50,5 +50,3 @@ add text
 ### Succulent Karoo
 
 add text
-
-

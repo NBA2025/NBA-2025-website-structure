@@ -1,5 +1,5 @@
 ---
-title: "Priority responses overview"
+title: "Priority responses"
 sidebar: true
 ---
 

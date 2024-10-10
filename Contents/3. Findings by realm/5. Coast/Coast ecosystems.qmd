@@ -1,5 +1,5 @@
 ---
-title: "coastal ecosystems"
+title: "Coastal ecosystems"
 sidebar: true
 ---
 

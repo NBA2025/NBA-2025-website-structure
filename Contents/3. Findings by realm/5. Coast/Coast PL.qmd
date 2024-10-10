@@ -1,5 +1,5 @@
 ---
-title: "Protection Level of Coastal Ecosystems"
+title: "Protection Level"
 sidebar: true
 ---
 

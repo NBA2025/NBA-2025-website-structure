@@ -3,7 +3,7 @@ title: "Ecosystems in estuarine realm"
 sidebar: true
 ---
 
---------------------------------------------------------
+------------------------------------------------------------------------
 
 # Habitats and vegetation
 
@@ -13,7 +13,7 @@ add text
 
 Estuary Functional Zone update
 
-KZN Estuary Functional Zone 
+KZN Estuary Functional Zone
 
 ## Classification updates
 

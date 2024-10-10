@@ -1,5 +1,5 @@
 ---
-title: "Ecological condition of coastal ecosystems"
+title: "Ecological condition"
 sidebar: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Freshwater (inland aqauatic) realm"
+title: "Freshwater (inland aquatic) realm"
 subtitle: "Findings emerging from the NBA "
 date: last-modified
 date-format: "DD-MM-YYYY"

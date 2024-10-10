@@ -1,5 +1,5 @@
 ---
-title: "Freshwater Red List of Ecosystems"
+title: "Red List of Ecosystems"
 sidebar: true
 ---
 

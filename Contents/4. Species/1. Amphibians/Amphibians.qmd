@@ -3,7 +3,7 @@ title: "Amphibians"
 subtitle: "Findings emerging from the NBA "
 date: last-modified
 date-format: "DD-MM-YYYY"
-sidebar: false
+sidebar: true
 image: "/images/Amphibians.JPG"  
 ---
 
@@ -12,3 +12,5 @@ image: "/images/Amphibians.JPG"
 ------------------------------------------------------------------------
 
 # Taxonomic group summary
+
+add text
